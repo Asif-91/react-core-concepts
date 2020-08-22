@@ -1,0 +1,6 @@
+echo "# react-core-concepts" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Asif-91/react-core-concepts.git
+git push -u origin master
